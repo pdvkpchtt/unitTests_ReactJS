@@ -36,7 +36,7 @@ function App() {
     console.log(json);
   };
 
-  console.log(data);
+  // console.log(data);
 
   return (
     <div className="w-[1000px] mx-auto p-[20px] flex flex-col gap-[12px]">
